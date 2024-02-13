@@ -1,0 +1,6 @@
+﻿  Fahrenheit_to_Celsius_Converter.cpp
+C:\Users\Marco\Desktop\Projects\CppProgramming\Fahrenheit_to_Celsius_Converter\Fahrenheit_to_Celsius_Converter.cpp(13,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marco\Desktop\Projects\CppProgramming\Fahrenheit_to_Celsius_Converter\Fahrenheit_to_Celsius_Converter.cpp(21,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marco\Desktop\Projects\CppProgramming\Fahrenheit_to_Celsius_Converter\Fahrenheit_to_Celsius_Converter.cpp(28,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marco\Desktop\Projects\CppProgramming\Fahrenheit_to_Celsius_Converter\Fahrenheit_to_Celsius_Converter.cpp(29,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Fahrenheit_to_Celsius_Converter.vcxproj -> C:\Users\Marco\Desktop\Projects\CppProgramming\Fahrenheit_to_Celsius_Converter\x64\Debug\Fahrenheit_to_Celsius_Converter.exe
